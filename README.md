@@ -85,6 +85,6 @@ Troubleshooting:
  - Confirm psycopg3 installation
 
 File Structure:
-`3005_Project_DDL.sql `- Database table definitions
-`3005_Project_DML.sql `- Sample data insertion
-`3005_Project.py `- Main application code
+- `3005_Project_DDL.sql` - Database table definitions
+- `3005_Project_DML.sql` - Sample data insertion
+- `3005_Project.py` - Main application code
